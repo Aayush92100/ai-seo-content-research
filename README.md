@@ -2,32 +2,32 @@
 
 ## Executive Summary
 
-This repository is a structured research project focused on understanding how leading practitioners are approaching AI-powered SEO, AI Search visibility, content production, and Generative Engine Optimization (GEO).
+This repository contains a structured research project focused on AI-powered SEO content production, AI Search visibility, and Generative Engine Optimization (GEO) for B2B SaaS companies.
 
-Rather than collecting generic SEO advice, the goal was to analyze real-world workflows, frameworks, experiments, and operating systems used by experts actively driving results in AI Search environments.
+The objective was to analyze leading practitioners actively working in AI SEO, extract their workflows, identify recurring patterns, and transform those insights into a practical implementation framework.
 
-The research synthesizes insights from multiple industry leaders and converts them into practical recommendations that B2B SaaS companies can apply to improve content production efficiency, AI visibility, and organic growth.
+Rather than collecting generic SEO advice, this project focuses on real-world systems, case studies, operational workflows, and AI Search strategies currently being used by industry experts.
 
 ---
 
 ## Research Objectives
 
-* Identify proven AI SEO strategies being used in production environments.
-* Understand how AI Search is changing content creation and distribution.
-* Analyze workflows used by leading SEO practitioners.
-* Extract repeatable systems rather than isolated tactics.
-* Build a practical AI SEO operating framework for B2B SaaS organizations.
+* Understand how AI is changing SEO and content production.
+* Identify repeatable AI-assisted content workflows.
+* Analyze AI Search optimization strategies.
+* Study AI visibility and citation-building techniques.
+* Build a practical AI SEO playbook for B2B SaaS organizations.
 
 ---
 
 ## Experts Analyzed
 
-| Expert       | Focus Area                                     |
-| ------------ | ---------------------------------------------- |
-| Matt Diggity | AI SEO Experiments & Technical Optimization    |
-| Nathan Gotch | AI Search Visibility & Competitive Positioning |
-| Ryan Law     | AI Content Operations & Editorial Systems      |
-| Kevin Indig  | AI Search Research & GEO                       |
+| Expert       | Primary Focus                                       |
+| ------------ | --------------------------------------------------- |
+| Matt Diggity | AI SEO Experiments & Technical Optimization         |
+| Nathan Gotch | AI Search Visibility & Competitive Positioning      |
+| Ryan Law     | AI Content Operations & Editorial Systems           |
+| Kevin Indig  | AI Search Research & Generative Engine Optimization |
 
 ---
 
@@ -36,38 +36,52 @@ The research synthesizes insights from multiple industry leaders and converts th
 ```text
 research/
 ├── sources.md
-├── youtube-transcripts/
-├── linkedin-posts/
 ├── insights/
 │   ├── recurring-patterns.md
 │   └── ai-content-workflows.md
-└── playbook/
+│
+├── linkedin-posts/
+│   ├── matt-diggity.md
+│   ├── nathan-gotch.md
+│   ├── ryan-law.md
+│   └── kevin-indig.md
+│
+├── youtube-transcripts/
+│   ├── matt-diggity.md
+│   ├── nathan-gotch.md
+│   ├── ryan-law.md
+│   └── kevin-indig.md
+│
+├── playbook/
+│   └── ai-seo-playbook.md
+│
+└── other/
 ```
 
 ---
 
 ## Research Methodology
 
-The research process focused on high-signal sources rather than volume.
+The research process prioritized quality over quantity.
 
 Sources included:
 
-* Expert YouTube content
+* YouTube content from industry experts
 * LinkedIn thought leadership posts
 * Published case studies
 * Workflow breakdowns
 * AI Search research
-* Companion articles and supporting documentation
+* Supporting articles and documentation
 
-Each source was analyzed to extract:
+Each source was analyzed for:
 
 * Key takeaways
-* Frameworks
-* Tool stacks
+* Strategic frameworks
 * Workflow design
-* Quality controls
+* Tool usage
+* Quality control systems
 * Measurement approaches
-* B2B SaaS applications
+* B2B SaaS applicability
 
 ---
 
@@ -75,61 +89,75 @@ Each source was analyzed to extract:
 
 ### 1. AI SEO Is Built on Traditional SEO Foundations
 
-Crawlability, internal linking, page structure, and technical accessibility remain critical prerequisites for AI visibility.
+Technical SEO fundamentals such as crawlability, internal linking, structured data, and site architecture remain essential.
 
-### 2. Structured Content Consistently Outperforms Narrative Content
+### 2. Structured Content Performs Better in AI Search
 
-Question-driven content, comparison pages, FAQs, and clear declarative answers are more likely to be surfaced and cited by AI systems.
+Question-based headings, comparison pages, FAQ sections, and direct-answer formats consistently outperform narrative content.
 
 ### 3. Human Editorial Review Remains Essential
 
-None of the experts studied advocate fully autonomous publishing. Human oversight remains a core quality-control mechanism.
+All experts emphasized human oversight as a necessary component of high-quality AI-assisted content production.
 
 ### 4. AI Visibility Requires New Measurement Systems
 
-Traditional ranking metrics are no longer sufficient. AI referral traffic, citation frequency, and AI Overview visibility are emerging as important performance indicators.
+AI referral traffic, AI citations, and AI Overview visibility should be measured separately from traditional SEO metrics.
 
-### 5. Content Workflows Are Becoming Systemized
+### 5. Content Production Is Becoming Systemized
 
-The highest-performing teams treat AI as part of a documented operating system rather than a standalone writing tool.
+Leading teams are building documented workflows that integrate AI into content operations rather than using AI as a standalone writing tool.
 
 ---
 
-## Deliverables
+## Research Deliverables
 
 This repository includes:
 
+### Source Research
+
 * Expert source directory
-* YouTube research analysis
-* LinkedIn research analysis
-* Cross-expert pattern synthesis
-* Workflow comparison analysis
-* Unified AI SEO operating framework
-* B2B SaaS implementation playbook
+* Expert profile analysis
+* Supporting references
+
+### Content Research
+
+* YouTube content analysis
+* LinkedIn content analysis
+
+### Insight Generation
+
+* Cross-expert recurring pattern analysis
+* AI content workflow comparison
+
+### Strategic Output
+
+* AI SEO implementation playbook
+* B2B SaaS operational recommendations
 
 ---
 
-## Why These Experts Were Selected
+## Key Output Documents
 
-The selected experts represent different layers of the AI SEO ecosystem:
-
-* Technical SEO and AI visibility
-* Content production systems
-* AI Search optimization
-* Generative Engine Optimization (GEO)
-* B2B SaaS growth strategy
-* Editorial operations
-
-Together they provide a comprehensive view of how AI is reshaping organic growth and content marketing.
+| Document                | Purpose                                     |
+| ----------------------- | ------------------------------------------- |
+| sources.md              | Expert directory and research foundation    |
+| recurring-patterns.md   | Cross-expert synthesis and pattern analysis |
+| ai-content-workflows.md | Workflow comparison and unified methodology |
+| ai-seo-playbook.md      | Practical implementation framework          |
 
 ---
 
 ## Final Outcome
 
-The final result is not a collection of notes, but a consolidated research base that transforms expert knowledge into a practical AI SEO operating system for B2B SaaS organizations.
+The final outcome is not simply a collection of research notes.
+
+This repository transforms expert insights into a practical AI SEO operating system designed for B2B SaaS organizations seeking to improve content production efficiency, AI Search visibility, and organic growth.
 
 ---
 
-**Author:** Aayush Tejani
-**Project:** AI-Powered SEO Content Production Research
-**Date:** June 2026
+## Author
+
+**Aayush Tejani**
+
+AI-Powered SEO Content Production Research
+June 2026
